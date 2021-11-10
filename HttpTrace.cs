@@ -2,7 +2,7 @@
 ---
 name: HttpTrace.cs
 description: CodeBit class for tracing HTTP requests and responses
-url: data:text/plain,Pending
+url: https://github.com/bredd/HttpTrace/raw/main/HttpTrace.cs
 version: 1.0
 keywords: CodeBit
 dateModified: 2021-11-09
